@@ -9,7 +9,7 @@
 # - jq
 
 org=vvv17-git
-team=vvv17-students
+team=vvv17-teachers
 curdir=$(pwd)
 
 if [ -d build ]; then
