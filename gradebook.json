@@ -62,7 +62,14 @@
   {
     "username": "pattacini",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-pattacini",
+        "status": ":x:",
+        "last_commit_date": "2017-01-24T18:16:56Z",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {
