@@ -273,7 +273,11 @@
 
 ### [**pi-q**](https://github.com/pi-q) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-pi-q](https://github.com/vvv17-git/assignment_git-pi-q) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
