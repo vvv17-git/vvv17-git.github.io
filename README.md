@@ -79,7 +79,11 @@
 
 ### [**bmagyar**](https://github.com/bmagyar) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-bmagyar](https://github.com/vvv17-git/assignment_git-bmagyar) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
