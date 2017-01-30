@@ -28,7 +28,14 @@
   {
     "username": "AlexisBillier",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-AlexisBillier",
+        "status": ":x:",
+        "last_commit_date": "2017-01-30T11:24:27Z",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {
