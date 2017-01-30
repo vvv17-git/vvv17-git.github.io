@@ -15,8 +15,15 @@
   {
     "username": "alexarossi",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-alexarossi",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-30T11:19:32Z",
+        "score": 1
+      }
+    ],
+    "score": 1
   },
   {
     "username": "AlexisBillier",
