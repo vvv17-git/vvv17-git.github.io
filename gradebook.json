@@ -327,8 +327,15 @@
   {
     "username": "pi-q",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-pi-q",
+        "status": ":white_check_mark:",
+        "last_commit_date": "",
+        "score": 1
+      }
+    ],
+    "score": 1
   },
   {
     "username": "svestark",
