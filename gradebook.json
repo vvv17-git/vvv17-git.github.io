@@ -288,8 +288,15 @@
   {
     "username": "mazzamani",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-mazzamani",
+        "status": ":white_check_mark:",
+        "last_commit_date": "",
+        "score": 1
+      }
+    ],
+    "score": 1
   },
   {
     "username": "nolbriker",
