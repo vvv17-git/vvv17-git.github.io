@@ -1,5 +1,7 @@
 ## Gradebook of VVV17 Git
 
+As VVV17 is now over, the students repositories have been [archived](/archives).
+
 ### [**AlexAntn**](https://github.com/AlexAntn) grade
 
 | assignment | status | score |
